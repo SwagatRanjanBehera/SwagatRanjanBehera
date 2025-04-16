@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Swagat Ranjan Beher</h1>
+<h1 align="center">Hi 👋, I'm Swagat Ranjan Behera</h1>
 <h3 align="center">A passionate Python - Data Science Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatranjanbehera&label=Profile%20views&color=0e75b6&style=flat" alt="swagatranjanbehera" /> </p>
 
 - 🌱 I’m currently learning **Basics of Web-Development and Flask**
-
-- 👯 I’m looking to collaborate on **Japanese Porn Industry**
-
-- 🤝 I’m looking for help with **Everything**
 
 - 💬 Ask me about **NumPy, Pandas**
 
