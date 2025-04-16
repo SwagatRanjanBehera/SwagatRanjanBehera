@@ -19,6 +19,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwagatRanjanBehera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwagatRanjanBehera/SwagatRanjanBehera/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwagatRanjanBehera/SwagatRanjanBehera/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SwagatRanjanBehera/SwagatRanjanBehera/output/pacman-contribution-graph.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/swagat-ranjan-behera-22717a25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/swagat-ranjan-behera-22717a25a" height="30" width="40" /></a>
